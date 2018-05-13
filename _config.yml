@@ -1,18 +1,1 @@
 theme: jekyll-theme-midnight
-name: 'Deepwidth'
-description: 'My Github page'
-encoding: 'utf-8'
-url: 'http://deepwidth.com'
-defaults:
-  -
-    scope:
-      path: ''
-      type: 'posts'
-    value:
-      layout: ''
-      author: 'Deepwidth'
-      comments: true
-      share: true
-social:
-  github: 'deepwidth'
-  rss: feed.xml
